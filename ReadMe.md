@@ -1,1 +1,2 @@
-first, put file to github.
+
+第一次实现线程池，如有问题请大家及时斧正。
